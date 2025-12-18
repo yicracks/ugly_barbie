@@ -1,0 +1,5 @@
+{
+  "name": "Barbie AI Designer",
+  "description": "A 3D BJD (Ball Jointed Doll) visualizer and AI-powered fashion designer using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
